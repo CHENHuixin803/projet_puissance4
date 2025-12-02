@@ -7,5 +7,6 @@ Collaborateurs:
 Chen Huixin (numéro étudiant : 21319577)                    
 Drieux Audrey (numéro étudiant : 28624202)
 
-Nom de groupe: puissance4HAHA
+Nom de groupe:   
+puissance4HAHA
 
